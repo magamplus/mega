@@ -1,10 +1,8 @@
 do
 
 function run(msg, matches)
-  return 'TeleDark '.. VERSION .. [[ 
-  Checkout http://git.io/v0Cqv
-  GNU GPL v2 license.
-  @AmirDark for more info.]]
+  return 'megatron '.. VERSION .. [[ 
+ amir/amir/abas
 end
 
 return {
