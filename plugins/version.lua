@@ -1,13 +1,13 @@
 do
 
 function run(msg, matches)
-  return 'megatron '.. VERSION .. [[ 
- amir/amir/abas
+  return 'Telegram Bot '.. VERSION .. [[ 
+  amir/amir/abas
 end
 
 return {
-  description = "نمایش توضیحات بات", 
-  usage = "!version: نمایش توضیحات بات",
+  description = "Shows bot version", 
+  usage = "!version: Shows bot version",
   patterns = {
     "^!version$"
   }, 
